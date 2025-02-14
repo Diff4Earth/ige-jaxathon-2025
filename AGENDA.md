@@ -1,9 +1,7 @@
 # Agenda of the JAXATHON 2025
 
 
----
 
-## Agenda
 
 **Monday 10 March**
 
