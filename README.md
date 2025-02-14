@@ -37,7 +37,7 @@ We encourage participants to contribute by:
 ## 📚 Resources
 - [JAX Official Documentation](https://jax.readthedocs.io/)
 - [JAX GitHub Repository](https://github.com/google/jax)
-- [Tutorials and Learning Materials](https://jax.readthedocs.io/en/latest/notebooks/index.html)
+- [Tutorials and Learning Materials](https://docs.jax.dev/en/latest/tutorials.html)
 
 ## 📧 Contact
 For any inquiries, feel free to reach out to Julien Le Sommer by email (http://lesommer.github.io/contact/).
