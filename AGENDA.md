@@ -1,4 +1,4 @@
-# Agenda of the Jaxathon 2025
+# Agenda of the JAXATHON 2025
 
  - **Start:** Monday 10 March 2025 13:00 
  - **End:** Thursday 13 March 2025 13:00 
