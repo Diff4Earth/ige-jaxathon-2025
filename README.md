@@ -1,11 +1,11 @@
 
-# JAXATHON  : Accelerating Geoscientific Research Software Developments in JAX
+# JAXATHON 2025 : Research Software for Geosciences in JAX
 
 Welcome to the official repository for the **JAXATHON 2025**! This event is designed to accelerate the development of participants' respective research software projects using the JAX language while deepening their understanding of its capabilities.
 
 ## 📅 Event Details
 - **Date:** 10-13 March 2025
-- **Location:** Grenoble 
+- **Location:** Institut des Geosciences de l'Environnement, Grenoble, France
 - **Facilitators:** Julien Le Sommer and Aurélie Albert
 
 ## 🎯 Objectives
@@ -42,4 +42,4 @@ We encourage participants to contribute by:
 ## 📧 Contact
 For any inquiries, feel free to reach out to Julien Le Sommer by email (http://lesommer.github.io/contact/).
 
-Looking forward to an engaging and productive workshop! 🚀
+Looking forward to an engaging and productive hackathon ! 🚀
