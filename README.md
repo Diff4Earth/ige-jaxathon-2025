@@ -30,7 +30,7 @@ This repository will host:
 
 ## 🤝 How to Participate
 
-If you are interested in this event, you may join our discord and fill up the registration form. 
+If you are interested in this event, you may join our discord, register to our mailing list and fill up the registration form. 
 
 ## 📚 Resources
 - [JAX Official Documentation](https://jax.readthedocs.io/)
