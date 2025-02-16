@@ -4,7 +4,7 @@
 ## When 
 
  - **Start:** Monday 10 March 2025 13:00 
- - **End:** Thursday 13 March 2025 13:00 
+ - **End:** Thursday 13 March 2025 14:00 
 
 
 ## Where 
