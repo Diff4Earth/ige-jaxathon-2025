@@ -5,7 +5,7 @@ Welcome to the official repository for the **JAXATHON 2025**! This event is desi
 
 ## 📅 Event Details
 - **Date:** 10-13 March 2025
-- **Location:** Institut des Geosciences de l'Environnement, Grenoble, France
+- **Location:** [Institut des Geosciences de l'Environnement](https://www.ige-grenoble.fr), Grenoble, France
 - **Facilitators:** Julien Le Sommer and Aurélie Albert
 
 ## 🎯 Objectives
