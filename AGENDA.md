@@ -25,9 +25,9 @@
 
 | Time | Session | Details |
 |------|---------|---------|
-| 9:00 - 13:00 | Work session 2 | - |
+| 9:00 - 13:00 | Work session 4 | - |
 | 13:00 - 14:00 | Lunch | - |
-| 14:00 - 18:00 | Work session 4 | - |
+| 14:00 - 18:00 | Work session 5 | - |
 
 
 
@@ -36,7 +36,7 @@
 
 | Time | Session | Details |
 |------|---------|---------|
-| 9:00 - 13:00 | Work session 2 | - |
+| 9:00 - 13:00 | Work session 6 | - |
 | 13:00 - 14:00 | Lunch | - |
 | 14:00 | Adjourn | - |
 
