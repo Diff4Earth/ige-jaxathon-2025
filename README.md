@@ -1,5 +1,5 @@
 
-# JAXATHON 2025 : Research Software for Geosciences in JAX
+# JAXATHON 2025 : Leveraging JAX for Environmental Geosciences
 
 Welcome to the official repository for the **JAXATHON 2025**! This event is designed to accelerate the development of participants' respective research software projects using the JAX language while deepening their understanding of its capabilities.
 
@@ -11,10 +11,10 @@ Welcome to the official repository for the **JAXATHON 2025**! This event is desi
 ## 🎯 Objectives
 - Enhance the development of research software projects utilizing JAX.
 - Explore the key facets of the JAX language and its applications.
-- Foster collaboration among researchers and developers in a dynamic learning environment.
+- Foster collaboration in a dynamic learning environment.
 
 ## 🏛 Programme Overview
-The workshop will include:
+The hackathon will include:
 
 - **Keynote Presentations** – Insights from experts on JAX and its ecosystem.
 - **Group Work Sessions** – Hands-on collaboration to advance participants' projects.
@@ -28,11 +28,9 @@ This repository will host:
 - Resources and references for further learning
 - Collaborative notes and project updates
 
-## 🤝 How to Contribute
-We encourage participants to contribute by:
-- Sharing their project updates and code snippets.
-- Participating in discussions and providing feedback.
-- Collaborating on shared challenges and solutions.
+## 🤝 How to Participate
+
+If you are interested in this event, you may join our discord and fill up the registration form. 
 
 ## 📚 Resources
 - [JAX Official Documentation](https://jax.readthedocs.io/)
