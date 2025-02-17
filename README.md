@@ -1,9 +1,9 @@
 
-# JAXATHON 2025 : Leveraging JAX for Environmental Geosciences
+# JAXATHON 2025 : A Hackathon for fostering the use of JAX in Environmental Geosciences
 
-Welcome to the official repository for the **JAXATHON 2025**! 
+Welcome to the official repository of IGE **JAXATHON 2025**! 
 
-This event is organize by members of the [Institut des Geosciences de l'Environnement](https://www.ige-grenoble.fr). It is designed to accelerate the development of participants' respective research software projects using the JAX language while deepening their understanding of its capabilities.
+This event is organized by members of the [Institut des Geosciences de l'Environnement](https://www.ige-grenoble.fr). It is designed to accelerate the development of participants' respective research software projects using the JAX language while deepening their understanding of its capabilities.
 
 ## 📅 Event Details
 - **Date:** 10-13 March 2025
