@@ -32,7 +32,7 @@ This repository will host:
 
 ## 🤝 How to Participate
 
-If you are interested in this event, you may join our [discord](https://discord.gg/JFDDbUF9T3), register to our mailing list and fill up the [registration form](https://forms.gle/xDHqp7utJtDCWKU88). 
+If you are interested in this event, you may join our [discord](https://discord.gg/JFDDbUF9T3), subscribe to our [mailing list](https://groupes.renater.fr/sympa/subscribe/ige-jaxathon-news) and fill up the [registration form](https://forms.gle/xDHqp7utJtDCWKU88). 
 
 ## 📚 Resources
 - [JAX Official Documentation](https://jax.readthedocs.io/)
