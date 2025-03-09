@@ -9,7 +9,7 @@
 
 | Time   | Session                      | Details |
 |--------|------------------------------|---------|
-| 12:30  | Welcome                      | (*On site at IGE / MCP building  / Rooms 117-118*                       |
+| 12:30  | Welcome                      | (*On site at IGE / MCP building  / Rooms 117-118*)                      |
 | 13:00  | Lunch                        | (*On-site at IGE / MCP building*)                                       |
 | 14:00  | Introduction                 | *Julien Le Sommer* : Agenda and objectives                              |
 | 14:15  | Work Session                 | Exchange on participants projects                                       |
