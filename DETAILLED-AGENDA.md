@@ -7,16 +7,17 @@
 
 **Monday 10 March**
 
-| Time   | Session           | Details |
-|--------|-------------------|---------|
-| 12:30  | Welcome           | -       |
-| 13:00  | Lunch             | -       |
-| 14:00  | Introduction      | *Julien Le Sommer* : Agenda and objectives   |
-| 14:15  | Work Session      | Exchange on participants projects             |
-| 15:00  | Technical Review  | *Vadim Bertrand* : Some useful libraries in the Jax ecosystem   |
-| 15:30  | Work Session      | Exchange on participants projects             |
-| 16:30  | Technical Review  | *Hugo Frezat* : Tutorial on Jax program transformation capabilities        |
-| 17:00  | Work Session      | Finalising description of participants projects           |
+| Time   | Session                      | Details |
+|--------|------------------------------|---------|
+| 12:30  | Welcome                      | (*On site at IGE / MCP building  / Rooms 117-118*                       |
+| 13:00  | Lunch                        | (*On-site at IGE / MCP building*)                                       |
+| 14:00  | Introduction                 | *Julien Le Sommer* : Agenda and objectives                              |
+| 14:15  | Work Session                 | Exchange on participants projects                                       |
+| 15:00  | Technical Review             | *Vadim Bertrand* : Some useful libraries in the Jax ecosystem           |
+| 15:30  | Work Session                 | Exchange on participants projects                                       |
+| 16:30  | Technical Review             | *Hugo Frezat* : Tutorial on Jax program transformation capabilities     |
+| 17:00  | Work Session                 | Finalising description of participants projects                         |
+| 18:00  | Stand-up Exchange            | Wrap-up and plans for DAY2                                              |
 
 
 
