@@ -43,10 +43,12 @@
 |--------|------------------------------|-------------------------------------------------------------------------|
 | 9:00   | Work session   | -       |
 | 10:30  | Technical Review  | *Gabriel Mouttapa* : Optimizing the cost of gradient computation with Jax. Experience with Tunax  |
-| 11:00   | Work session   | -       |
-| 13:00  | Lunch          | -       |
-| 14:00  | Work session   | -       |
-
+| 10:30  | Work session                 | Work on participants projects                                              |
+| 13:00  | Lunch                        | (*On-site at IGE / MCP building*)                                          |
+| 10:30  | Work session                 | Work on participants projects                                              |
+| 18:15  | Adjourn                      |                                                                         |
+| 19:00  | Dinner                       | at "Minimistan",  Grenoble                                              |
+ 
 
 
 
