@@ -39,16 +39,16 @@
 
 **Wednesday 12 March**
 
-| Time   | Session                      | Details                                                                 |
-|--------|------------------------------|-------------------------------------------------------------------------|
-| 9:00   | Work session   | -       |
-| 10:30  | Technical Review  | *Gabriel Mouttapa* : Optimizing the cost of gradient computation with Jax. Experience with Tunax  |
-| 10:30  | Work session                 | Work on participants projects                                              |
-| 13:00  | Lunch                        | (*On-site at IGE / MCP building*)                                          |
-| 10:30  | Work session                 | Work on participants projects                                              |
-| 18:00  | Stand-up Exchange            | Wrap-up and plans for DAY2                                              |
-| 18:15  | Adjourn                      |                                                                         |
-| 19:00  | Dinner                       | at "Minimistan",  Grenoble                                              |
+| Time   | Session                      | Details                                                                                           |
+|--------|------------------------------|---------------------------------------------------------------------------------------------------|
+| 9:00   | Work session                 | Work on participants projects                                                                     |
+| 10:30  | Technical Review             | *Gabriel Mouttapa* : Optimizing the cost of gradient computation with Jax. Experience with Tunax  |
+| 10:30  | Work session                 | Work on participants projects                                                                     |
+| 13:00  | Lunch                        | (*On-site at IGE / MCP building*)                                                                 |
+| 14:00  | Work session                 | Work on participants projects                                                                     |
+| 18:00  | Stand-up Exchange            | Wrap-up and plans for DAY4                                                                        |
+| 18:15  | Adjourn                      |                                                                                                   |
+| 19:00  | Dinner                       | at "Minimistan",  Grenoble                                                                        |
  
 
 
@@ -57,10 +57,11 @@
 
 | Time   | Session                      | Details                                                                 |
 |--------|------------------------------|-------------------------------------------------------------------------|
-| 9:00   | Work session   | -       |
-| 13:00  | Lunch          | -       |
-| 14:00  | Adjourn        | -       |
-
+| 9:00   | Work session                 | Work on participants projects                                           |
+| 11:30  | Group discussion             | Results of partaicipants project                                        |
+| 13:00  | Lunch                        | (*On-site at IGE / MCP building*)                                       |
+| 14:00  | Adjourn                      |                                                                         |
+ 
 
 
 ---
