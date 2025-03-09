@@ -19,8 +19,6 @@
 | 17:00  | Work Session                 | Finalising description of participants projects                         |
 | 18:00  | Stand-up Exchange            | Wrap-up and plans for DAY2                                              |
 | 18:15  | Adjourn                      |                                                                         |
-
-
 | 19:00  | Drinks                       | at "Paye ta biere",  Grenoble                                           |
 
 
