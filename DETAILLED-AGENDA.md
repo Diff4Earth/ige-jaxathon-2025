@@ -46,6 +46,7 @@
 | 10:30  | Work session                 | Work on participants projects                                              |
 | 13:00  | Lunch                        | (*On-site at IGE / MCP building*)                                          |
 | 10:30  | Work session                 | Work on participants projects                                              |
+| 18:00  | Stand-up Exchange            | Wrap-up and plans for DAY2                                              |
 | 18:15  | Adjourn                      |                                                                         |
 | 19:00  | Dinner                       | at "Minimistan",  Grenoble                                              |
  
