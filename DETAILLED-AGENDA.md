@@ -25,14 +25,15 @@
 
 **Tuesday 11 March**
 
-| Time   | Session                      | Details                                                                 |
-|--------|------------------------------|-------------------------------------------------------------------------|
-| 9:00   | Keynote presentation    | *Facundo Sapienza* : Differentiable Programming for Differential Equations |
-| 10:00  | Work session            | -       |
-| 13:00  | Lunch                        | (*On-site at IGE / MCP building*)                                       |
-| 14:00  | Work session            | -       |
-| 15:30  | Round Table             |    How to enforce differentiability of a physics based models  |
-| 16:00  | Work session            | -       |
+| Time   | Session                      | Details                                                                    |
+|--------|------------------------------|----------------------------------------------------------------------------|
+| 9:00   | Keynote presentation         | *Facundo Sapienza* : Differentiable Programming for Differential Equations |
+| 10:00  | Group discussion             | Informal discussion with Facundo Sapienza                                  |
+| 10:30  | Work session                 | Work on participants projects                                              |
+| 13:00  | Lunch                        | (*On-site at IGE / MCP building*)                                          |
+| 14:00  | Work session                 | Work on participants projects                                              |
+| 15:30  | Group discussion             | How to enforce differentiability of a physics based models                 |
+| 16:00  | Work session                 | Work on participants projects                                              |
 
 
 **Wednesday 12 March**
