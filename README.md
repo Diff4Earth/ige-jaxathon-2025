@@ -19,9 +19,11 @@ This event is organized by members of the [Institut des Geosciences de l'Environ
 The hackathon will include:
 
 - **Keynote Presentations** – Insights from experts on JAX and its ecosystem.
-- **Group Work Sessions** – Hands-on collaboration to advance participants' projects.
+- **Work Sessions** – Hands-on collaboration to advance participants' projects.
 - **Stand-up Exchanges** – Daily progress updates and discussions.
 - **Technical Reviews** – Deep dives into different aspects of the JAX language.
+
+The provisory agenda is available [here](DETAILLED-AGENDA.md)
 
 ## 📂 Repository Structure
 This repository will host:
