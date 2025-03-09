@@ -19,4 +19,4 @@ The event will be held on-site at the *Institute for Environmental Geosciences* 
 
 ## Food and accommodation
 
-Participants are expected to organize their travel plans and acccomodation on their own. Lunch will be provided to on-site participants. A social dinner will be organize on Tuesday 12 March.   
+Participants are expected to organize their travel plans and acccomodation on their own. Lunch will be provided to on-site participants. A social dinner will be organize on Wednesday 12 March.   
