@@ -34,7 +34,8 @@
 | 14:00  | Work session                 | Work on participants projects                                              |
 | 15:30  | Group discussion             | How to enforce differentiability of a physics based models                 |
 | 16:00  | Work session                 | Work on participants projects                                              |
-
+| 18:00  | Stand-up Exchange            | Wrap-up and plans for DAY3                                                 |
+| 18:15  | Adjourn                      |                                                                            |
 
 **Wednesday 12 March**
 
