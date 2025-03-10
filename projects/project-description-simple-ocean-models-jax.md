@@ -8,10 +8,10 @@ The API will be tested on different examples using different simple models for d
 
 ## Background information : 
 *Provide any information (GitHub repository, reference to scientific paper) useful to describe the starting point of your project*  
-[MASSH](https://github.com/leguillf/MASSH): MApping SSH repository 
-[somaX](https://github.com/jejjohnson/somax) : Simple Ocean Models with JAX
-[pyqg-jax](https://pyqg-jax.readthedocs.io/en/latest/index.html) : Quasigeostrophic Model in JAX
-[veropt](https://github.com/aster-stoustrup/veropt) : Bayesian Optimisation for the Versatile Ocean Simulator (VEROS)
+[MASSH](https://github.com/leguillf/MASSH): MApping SSH repository \
+[somaX](https://github.com/jejjohnson/somax) : Simple Ocean Models with JAX \
+[pyqg-jax](https://pyqg-jax.readthedocs.io/en/latest/index.html) : Quasigeostrophic Model in JAX \
+[veropt](https://github.com/aster-stoustrup/veropt) : Bayesian Optimisation for the Versatile  Ocean Simulator (VEROS) \
 
 ## Planned work : 
 *Please describe here what would be the main activities of the group during the hackathon*. 
