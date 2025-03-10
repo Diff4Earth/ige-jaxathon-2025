@@ -11,9 +11,11 @@ Our goal is, starting from a surface in the ocean, make it more neutral.
 
 
 ## Background information : 
-*Provide any information (GitHub repository, reference to scientific paper) useful to describe the starting point of your project*  
+*Provide any information (GitHub repository, reference to scientific paper) useful to describe the starting point of your project*
 
-* 
+* Stanley et al. 2021 https://doi.org/10.1029/2020MS002436 
+  Algorithmic Improvements to Finding Approximately Neutral Surfaces
+* https://github.com/geoffstanley/neutral-surfaces
 
 ## Planned work : 
 *Please describe here what would be the main activities of the group during the hackathon*. 
@@ -41,4 +43,7 @@ Our goal is, starting from a surface in the ocean, make it more neutral.
 ## Success metrics : 
 *Please provide a criteria on the basis of which you will assess whether you have achieved your objectives for the hackathon*
 
-
+* The new surface after optimization should be more neutral than the 1st guess
+* It should be fast (enough)
+* If we have time, we could compare speed and neutrality with the existing package: https://github.com/geoffstanley/neutral-surfaces
+* Providing a full python implementation would be a great achievement
