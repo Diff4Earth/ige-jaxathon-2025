@@ -45,7 +45,7 @@ If you are interested in this event, you may join our [discord](https://discord.
 For any inquiries, feel free to reach out to Julien Le Sommer by email (http://lesommer.github.io/contact/).
 
 
-## Licence 
+## :guardsman: Licence 
 By default, the material available in this repository is distributed following the terms of the CC0 1.0 Universal licence. Some specific projects have adopted a different licence, as reflected in the dedicated project folders. 
 
 Looking forward to an engaging and productive hackathon ! 🚀
