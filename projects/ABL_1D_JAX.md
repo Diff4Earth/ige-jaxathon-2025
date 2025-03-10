@@ -26,4 +26,4 @@ The idea afterward would be to couple this ABL with a sea ice emulator, which me
 
 ## ⛳️ Success metrics : 
 - Roadmap to translate the ABL code in JAX. (List of routines)
-- If possible, JAX routine for one or two functions
+- If possible, JAX functions for one or two Fortran routine
