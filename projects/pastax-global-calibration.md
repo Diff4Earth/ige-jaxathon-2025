@@ -4,7 +4,7 @@
 
 ## Project description :
 [`pastax`](https://pastax.readthedocs.io/en/latest/) allows to calibrate stochastic trajectory simulators using gradient-based optimizers through JAX automatic differentiation capability.
-The aim of this project is to build a Proof-Of_Concept for calibrating a pastax simulator (Smagorinsky diffusion model) from a large (i.e. global over several years) amount of observed drifters trajectories and colocated surface geostrophic currents.
+The aim of this project is to build a Proof-Of-Concept for calibrating a pastax simulator (Smagorinsky diffusion model) from a large (i.e. global over several years) amount of observed drifters trajectories and colocated surface geostrophic currents.
 
 ## Background information : 
 `pastax` code can be found here: [https://github.com/vadmbertr/pastax](https://github.com/vadmbertr/pastax).
@@ -28,4 +28,4 @@ The work is divided in two main stages:
 	- *note*: might be necessary/useful to use some sort of gradient accumulation ([Orbax](https://orbax.readthedocs.io/en/latest/index.html), [Optax](https://optax.readthedocs.io/en/latest/_collections/examples/gradient_accumulation.html)?).
 
 ## Success metrics : 
-Having a notebook showcasing the previous two stages (1st stage 1 and the stage 2).
+Having a notebook showcasing the previous two stages (1st stage 1 and then stage 2).
