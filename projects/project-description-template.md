@@ -10,6 +10,9 @@
 ## Planned work : 
 *Please describe here what would be the main activities of the group during the hackathon*. 
 
+## What will be delivered :
+*Please explain here how your work will be delivered in practice. Ex : a notebook + a python module implementing such and such.*
+
 ## Success metrics : 
 *Please provide a criteria on the basis of which you will assess whether you have achieved your objectives for the hackathon*
 
