@@ -15,6 +15,7 @@ The idea afterward would be to couple this ABL with a sea ice emulator, which me
 ## Background information : 
 - Reference paper: A simplified atmospheric boundary layer model for an improved representation of air–sea interactions in eddying oceanic models: implementation and first evaluation in NEMO (4.0),, Lemarié et al., https://doi.org/10.5194/gmd-14-543-2021
 - Reference code: https://zenodo.org/records/3904518
+- [Implementation in NEMO](https://forge.nemo-ocean.eu/nemo/nemo/-/tree/main/src/ABL?ref_type=heads)
 
 ## Planned work : 
 1. Looking at all the routines, evaluate the dependencies
