@@ -1,5 +1,10 @@
 ## People involved : 
-Hugo J., Marta, Sammy, Florian, Etienne, Valentin 
+- Hugo J.
+- Marta
+- Sammy
+- Florian
+- Etienne
+- Valentin 
 
 ## Project description 
 The goal of this project is to describe a common API to develop simple ocean models for feeding data inversion and calibration schemes.  
