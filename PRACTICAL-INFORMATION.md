@@ -20,3 +20,8 @@ The event will be held on-site at the *Institute for Environmental Geosciences* 
 ## Food and accommodation
 
 Participants are expected to organize their travel plans and acccomodation on their own. Lunch will be provided to on-site participants. A social dinner will be organize on Wednesday 12 March.   
+
+## Zoom links for remote participants 
+
+For Monday 10 March : [here](https://univ-grenoble-alpes-fr.zoom.us/j/96569925298?pwd=N9jPISszOG7CtiEt9Xbe5fIRkb6JFa.1)
+
