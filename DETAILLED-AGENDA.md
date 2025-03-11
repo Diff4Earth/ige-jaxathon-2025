@@ -32,10 +32,8 @@
 | 10:30  | Work session                 | Work on participants projects                                              |
 | 13:00  | Lunch                        | (*On-site at IGE / MCP building*)                                          |
 | 14:00  | Work session                 | Work on participants projects                                              |
-| 15:30  | Group discussion             | How to enforce differentiability of a physics based models                 |
-| 16:00  | Work session                 | Work on participants projects                                              |
-| 18:00  | Stand-up Exchange            | Wrap-up and plans for DAY3                                                 |
-| 18:15  | Adjourn                      |                                                                            |
+| 17:45  | Stand-up Exchange            | Wrap-up and plans for DAY3                                                 |
+| 18:00  | Adjourn                      |                                                                            |
 
 **Wednesday 12 March**
 
@@ -46,6 +44,8 @@
 | 10:30  | Work session                 | Work on participants projects                                                                     |
 | 13:00  | Lunch                        | (*On-site at IGE / MCP building*)                                                                 |
 | 14:00  | Work session                 | Work on participants projects                                                                     |
+| 15:30  | Group discussion             | How to enforce differentiability of a physics based models                                        |
+| 16:00  | Work session                 | Work on participants projects                                              |
 | 18:00  | Stand-up Exchange            | Wrap-up and plans for DAY4                                                                        |
 | 18:15  | Adjourn                      |                                                                                                   |
 | 19:00  | Dinner                       | at "Minimistan",  Grenoble                                                                        |
