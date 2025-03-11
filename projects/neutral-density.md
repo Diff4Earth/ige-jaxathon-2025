@@ -21,11 +21,13 @@ Our goal is, starting from a surface in the ocean, make it more neutral.
 
 
 1. Notebook that can load 3D T/S, xgcm.Grid
+   Done
 1. Create a function that take 3D fields and computes the neutral direction on fixed grid
    * T/W/U/V/F point? What is its native position?
    * Schema / discretization
    * xgcm
    * Done only once
+   In progress, using neutralocean
 2. notebook getting a surface and assess its neutrality pointwise
    * plot 2D map of difference of angle
    * angle interpolated in vertical
