@@ -24,4 +24,5 @@ Participants are expected to organize their travel plans and acccomodation on th
 ## Zoom links for remote participants 
 
 For Monday 10 March : [here](https://univ-grenoble-alpes-fr.zoom.us/j/96569925298?pwd=N9jPISszOG7CtiEt9Xbe5fIRkb6JFa.1)
+For Tuesday 11 March : [here](https://univ-grenoble-alpes-fr.zoom.us/j/94052888781?pwd=oF4ClljHkgTGvJFIIWTJ7ZJZa8kh8n.1)
 
