@@ -41,7 +41,7 @@
 |--------|------------------------------|---------------------------------------------------------------------------------------------------|
 | 9:00   | Work session                 | Work on participants projects                                                                     |
 | 10:30  | Technical Review             | *Gabriel Mouttapa* : Optimizing the cost of gradient computation with Jax. Experience with Tunax  |
-| 10:30  | Work session                 | Work on participants projects                                                                     |
+| 11:00  | Work session                 | Work on participants projects                                                                     |
 | 13:00  | Lunch                        | (*On-site at IGE / MCP building*)                                                                 |
 | 14:00  | Work session                 | Work on participants projects                                                                     |
 | 15:30  | Group discussion             | How to enforce differentiability of a physics based models                                        |
