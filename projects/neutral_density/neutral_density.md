@@ -29,18 +29,18 @@ Our goal is, starting from a surface in the ocean, make it more neutral.
    * Done only once
    * use `neutralocean.ntp.ntp_epsilon_errors`
    * write the equation to get the slope (or equivalently the $\Delta z$) from $\epsilon$
-   * --> *In progress, using neutralocean*
+   * --> *Done*
 2. notebook getting a surface and assess its neutrality pointwise
    * angle interpolated in vertical: using `jax.numpy.interp`
-   * --> *WIP, Romain*
    * plot 2D map of difference of angle
-   * Use neutralocean python package to verify that omega surfaces are more neutral than sigma2
+   * --> *Done*
 3. Create a function that takes 1 surface + the 3D neutral slopes (and T-S field? or N2?) and compute its neutrality as a scalar.
    * this is a JAX function
    * differentiable => to allow optimization
    * what are the math? What formula?
    * What are the input, do we need to cheat to achieve differentiability?
    * local weighting by N2? How to deal with wetting? ...
+   * --> *WIP*
 4. Optimization
    * define cost function (scalar neutrality + maybe gamma0 + other regularizations)
    * iterative process to minimize the cost function
