@@ -1,7 +1,7 @@
 ## People involved : 
-Minh Nguyen
-Anthony Frion
-Ali Bekar
+1. Minh Nguyen 
+2. Anthony Frion 
+3. Ali Bekar
 
 ## Project description 
 
