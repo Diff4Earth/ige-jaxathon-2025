@@ -19,7 +19,9 @@ We will provide a notebook including
    - Loading the checkpoint of trained model in pytorch.
    - Loading all trained model's parameters to UNET2D (Jax)
 3. Verify forecast state and Jacobian (Ali)
-4. Load trained model parameters (Anthony)
+   - Implementing the ForwardEuler time integration scheme
+   - Constraining the closed boundary conditions for ssh, u, v (Shallow Water problem with closed boundary)
+5. Load trained model parameters (Anthony)
 3. Write 4DVar coding using Jax (Minh + Ali + Anthony
 
 ## Success metrics : 
