@@ -15,8 +15,11 @@ $\textbf{Data assimilation.}$ We seek for such an initial state for the simulato
 We will provide a notebook including
 
 1. Create UNET2D on Jax Flax (Ali)
-2. Verify forecast state and Jacobian (Ali)
-3. Load trained model parameters (Anthony)
+   - Implementing UNET2D using flax.nnx having the same structure with our current pytorch code.
+   - Loading the checkpoint of trained model in pytorch.
+   - Loading all trained model's parameters to UNET2D (Jax)
+3. Verify forecast state and Jacobian (Ali)
+4. Load trained model parameters (Anthony)
 3. Write 4DVar coding using Jax (Minh + Ali + Anthony
 
 ## Success metrics : 
