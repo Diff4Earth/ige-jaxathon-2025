@@ -27,10 +27,13 @@ Our goal is, starting from a surface in the ocean, make it more neutral.
    * Schema / discretization
    * xgcm
    * Done only once
+   * use `neutralocean.ntp.ntp_epsilon_errors`
+   * write the equation to get the slope (or equivalently the $\Delta z$) from $\epsilon$
    * --> *In progress, using neutralocean*
 2. notebook getting a surface and assess its neutrality pointwise
+   * angle interpolated in vertical: using `jax.numpy.interp`
+   * --> *WIP, Romain*
    * plot 2D map of difference of angle
-   * angle interpolated in vertical
    * Use neutralocean python package to verify that omega surfaces are more neutral than sigma2
 3. Create a function that takes 1 surface + the 3D neutral slopes (and T-S field? or N2?) and compute its neutrality as a scalar.
    * this is a JAX function
