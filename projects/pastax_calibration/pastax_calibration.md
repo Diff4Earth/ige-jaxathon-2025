@@ -25,14 +25,18 @@ The work is divided in two main stages:
 	- simulate an ensemble of possible solutions for each trajectory,
 	- evaluate the loss and the gradient,
 	- update the model.
-	- *note*: might be necessary/useful to use some sort of gradient accumulation ([Orbax](https://orbax.readthedocs.io/en/latest/index.html), [Optax](https://optax.readthedocs.io/en/latest/_collections/examples/gradient_accumulation.html)?).
+And an additional one:
+3. Replicate the above steps using several (i.e. 2) GPUs
 
 ## Material
-Two notebooks:
-- One for showcasing the calibration pipeline
-- One providing computational timing plots:
-	- loading the data,
- 	- calibrating the simulator.
+Five notebooks separated into two directories:
+- data_loading:
+	- experimental.ipynb: some experiments, with notes on what worked and what did not,
+	- timings.ipynb: produce data loading timings.
+- calibration:
+	- experimental.ipynb: runs calibation on a small subset and plots the loss and the Smagorinsky constant across iterations,
+	- timings.ipynb: produce calibration timings,
+	- timings_multi_gpus.ipynb: same, but using 2 GPUs.
 
 ## Success metrics
 Calibrating the simulator globaly for 20 years of data should take less than 48 hours (by extrapolating the numbers observed on a smaller time period).
