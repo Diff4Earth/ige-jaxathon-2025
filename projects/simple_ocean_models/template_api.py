@@ -36,7 +36,7 @@ class model(eqx.Module):
         if self.AD_mode=='F':
             adjoint = ForwardMode()
         else:
-            adjoint = None
+            adjoint = diffrax.RecursiveCheckpointAdjoint(checkpoints=100)
         y0 = self.ini_state
         
         return diffeqsolve(term, self.solver, t0=t0, t1=t1, y0=y0, dt0=dt, saveat=saveat)
