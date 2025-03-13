@@ -19,18 +19,17 @@ Problem:  Over an observation window indexed by $i$, for observations sequence $
 
 The optimal solution $X_{i}^{*}$ minimizes a cost function  
 
- $$  X^{i*}= \argmin_{X^i} \mathbf{U}_\Phi \left(X^i,Y^i,\Omega^i\right)
+ $$  X^{i*}= argmin_{X^i} \mathbf{U}_\Phi \left(X^i,Y^i,\Omega^i\right)
 $$, where U denotes the 4DVar cost, given by, 
-   $$ \mathbf{U}_\Phi \left(X^i,Y^i\right)= \|H(X^i)-Y^i\|+ \textcolor{red}{\|X^i- \Phi(X^i)\|}$$
+   $$ \mathbf{U}_\Phi \left(X^i,Y^i\right)= \|H(X^i)-Y^i\|+ |X^i- \Phi(X^i)\|$$
 
 4DVarNet solves the above weak-constraint problem to obtain a trajectory over the assimilation window by learning both $\Phi$ and 
 
 We also have a **Neural Solver** ,
      $\Gamma\left(U_\Phi, X^{init}, Y\right)$: A network that learns to efficiently solve the 4DVar cost.   
    which is implemented in the following manner:
-   $${$X^{k+1}=X^k-P(g_k), \ g_k=\mathcal{S}_\theta(\nabla_X \mathbf{U}_\Phi \left(X^i,Y^i\right)), $}$$ 
-where 
-    $\mathcal{S}_\theta: \text{model architecture} $: ConvLSTM model.
+   $${X^{k+1}=X^k-P(g_k), \ g_k=\mathcal{S}_\theta(\nabla_X \mathbf{U}_\Phi \left(X^i,Y^i\right)),}$$ 
+where $\mathcal{S}_{\theta} \text{ model architecture} $ is a ConvLSTM model.
 
 
 The repository with the full PyTorch implementation: https://github.com/CIA-Oceanix/4dvarnet-starter 
