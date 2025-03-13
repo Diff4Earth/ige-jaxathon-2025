@@ -58,7 +58,7 @@
 | Time   | Session                      | Details                                                                 |
 |--------|------------------------------|-------------------------------------------------------------------------|
 | 9:00   | Work session                 | Work on participants projects                                           |
-| 11:30  | Group discussion             | Results of partaicipants project                                        |
+| 11:30  | Group discussion             | Results of participants project                                        |
 | 13:00  | Lunch                        | (*On-site at IGE / MCP building*)                                       |
 | 14:00  | Adjourn                      |                                                                         |
  
