@@ -29,7 +29,8 @@ And an additional one:
 3. Replicate the above steps using several (i.e. 2) GPUs
 
 ## Material
-Five notebooks separated into two directories:
+The following GitHub repository contains our material: [https://github.com/vadmbertr/pastax-global-calibration](https://github.com/vadmbertr/pastax-global-calibration)
+It is made of five notebooks separated into two directories:
 - data_loading:
 	- experimental.ipynb: some experiments, with notes on what worked and what did not,
 	- timings.ipynb: produce data loading timings.
