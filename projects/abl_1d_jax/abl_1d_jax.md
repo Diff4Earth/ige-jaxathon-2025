@@ -30,4 +30,4 @@ The idea afterward would be to couple this ABL with a sea ice emulator, which me
 
 ## 🎁 Outputs :
 
-All the work is done in the [dedicated repo](https://github.com/Diff4Earth/ABL_1D_JAX/blob/main/README.md)
+All the work is done in [this dedicated repo](https://github.com/Diff4Earth/ABL_1D_JAX/blob/main/README.md)
