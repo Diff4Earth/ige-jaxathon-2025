@@ -14,6 +14,7 @@ Neutral surfaces are surface which are locally approximately tangent to the neut
 ## Key outcome 
 
 The results are illustrated in the notebook : [jaxathon_neutral_density_project_achievement.ipynb](./jaxathon_neutral_density_project_achievement.ipynb)
+The repository used for development is located here: [https://github.com/rcaneill/neutral-density](https://github.com/rcaneill/neutral-density).
 
 Starting from ocean temperature and salinity data from a global atlas, we have managed to define a local measure of the neutrality of a surface. 
 
@@ -38,3 +39,6 @@ Future work will involve regularizing the loss with a local term penalizing devi
 * Stanley et al. 2021  := https://doi.org/10.1029/2020MS002436
 * neutralocean : https://github.com/geoffstanley/neutralocean
 
+## License
+
+This work in licensed under the LGPL license.
