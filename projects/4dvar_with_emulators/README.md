@@ -34,7 +34,6 @@ We will provide a notebook including
    - Implementing the 4DVar algorithm
 
 ## Success metrics : 
-*Please provide a criteria on the basis of which you will assess whether you have achieved your objectives for the hackathon*
 ![An example of observational data](https://github.com/Diff4Earth/ige-jaxathon-2025/blob/main/projects/4dvar_with_emulators/observations.png)
                   <center><figcaption>Figure 1: An example of observational data</figcaption></center>
 
