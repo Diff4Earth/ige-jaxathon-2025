@@ -34,9 +34,9 @@ Five notebooks separated into two directories:
 	- experimental.ipynb: some experiments, with notes on what worked and what did not,
 	- timings.ipynb: produce data loading timings.
 - calibration:
-	- experimental.ipynb: runs calibation on a small subset and plots the loss and the Smagorinsky constant across iterations,
+	- experimental_results.ipynb: runs calibation on a small subset and plots the loss and the Smagorinsky constant across iterations,
 	- timings.ipynb: produce calibration timings,
-	- timings_multi_gpus.ipynb: same, but using 2 GPUs.
+	- experimental_multi_gpus.ipynb: same as experimental_results.ipynb, but using 2 GPUs.
 
 ## Success metrics
 Calibrating the simulator globaly for 20 years of data should take less than 48 hours (by extrapolating the numbers observed on a smaller time period).
