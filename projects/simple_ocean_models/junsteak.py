@@ -69,7 +69,7 @@ class UNSTKmodel(eqx.Module):
         if self.AD_mode=='F':
             adjoint = ForwardMode() #ForwardMode()
         else:
-            adjoint = diffrax.RecursiveCheckpointAdjoint(checkpoints=None) # None # diffrax.RecursiveCheckpointAdjoint(checkpoints=None)
+            adjoint = diffrax.RecursiveCheckpointAdjoint(checkpoints=100) # None # diffrax.RecursiveCheckpointAdjoint(checkpoints=None)
         
         
         print(adjoint)
