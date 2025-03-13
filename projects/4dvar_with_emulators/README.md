@@ -14,8 +14,12 @@ We consider a simulator with time-varying system state $x_t \in \mathbb{R}^K$ an
 
 **Data assimilation**: We seek for such an initial state for the simulator/emulator that predictions would match to available observation.
 ## Background information : 
-*Provide any information (GitHub repository, reference to scientific paper) useful to describe the starting point of your project*  
+1. Marcel Nonnenmacher, David S. Greenberg;
+Deep Emulators for Differentiation, Forecasting, and Parametrization in Earth Science Simulators;  [https://doi.org/10.1029/2021MS002554](https://doi.org/10.1029/2021MS002554)
 
+2. 25 years of 4D-Var: how machine learning can improve the use of observations, [https://www.ecmwf.int/en/about/media-centre/news/2022/25-years-4d-var-how-machine-learning-can-improve-use-observations](https://www.ecmwf.int/en/about/media-centre/news/2022/25-years-4d-var-how-machine-learning-can-improve-use-observations)
+
+3. Convert PyTorch models to Flax; [https://flax-linen.readthedocs.io/en/latest/guides/converting_and_upgrading/convert_pytorch_to_flax.html](https://flax-linen.readthedocs.io/en/latest/guides/converting_and_upgrading/convert_pytorch_to_flax.html)
 ## Planned work : 
 We will provide a notebook including
 
