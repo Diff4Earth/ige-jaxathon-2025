@@ -20,6 +20,8 @@ Deep Emulators for Differentiation, Forecasting, and Parametrization in Earth Sc
 2. 25 years of 4D-Var: how machine learning can improve the use of observations, [https://www.ecmwf.int/en/about/media-centre/news/2022/25-years-4d-var-how-machine-learning-can-improve-use-observations](https://www.ecmwf.int/en/about/media-centre/news/2022/25-years-4d-var-how-machine-learning-can-improve-use-observations)
 
 3. Convert PyTorch models to Flax; [https://flax-linen.readthedocs.io/en/latest/guides/converting_and_upgrading/convert_pytorch_to_flax.html](https://flax-linen.readthedocs.io/en/latest/guides/converting_and_upgrading/convert_pytorch_to_flax.html)
+
+4. Optax optimization in Jax; [https://optax.readthedocs.io/en/latest/index.html](https://optax.readthedocs.io/en/latest/index.html)
 ## Planned work : 
 We will provide a notebook including
 
