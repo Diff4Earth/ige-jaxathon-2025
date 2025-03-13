@@ -32,17 +32,17 @@ And an additional one:
 The following GitHub repository contains our material: [https://github.com/vadmbertr/pastax-global-calibration](https://github.com/vadmbertr/pastax-global-calibration).
 
 It is made of five notebooks separated into two directories:
-- data_loading:
-	- experimental.ipynb: some experiments, with notes on what worked and what did not,
-	- timings.ipynb: produce data loading timings.
-- calibration:
-	- experimental_results.ipynb: runs calibation on a small subset and plots the loss and the Smagorinsky constant across iterations,
-	- timings.ipynb: produce calibration timings,
-	- experimental_multi_gpus.ipynb: same as experimental_results.ipynb, but using 2 GPUs.
+- [data_loading](https://github.com/vadmbertr/pastax-global-calibration/data_loading):
+	- [experimental.ipynb](https://github.com/vadmbertr/pastax-global-calibration/data_loading/experimental.ipynb): some experiments, with notes on what worked and what did not,
+	- [timings.ipynb](https://github.com/vadmbertr/pastax-global-calibration/data_loading/timings.ipynb): produce data loading timings.
+- [calibration](https://github.com/vadmbertr/pastax-global-calibration/calibration):
+	- [experimental_results.ipynb](https://github.com/vadmbertr/pastax-global-calibration/calibration/experimental_results.ipynb): runs calibation on a small subset and plots the loss and the Smagorinsky constant across iterations,
+	- [timings.ipynb](https://github.com/vadmbertr/pastax-global-calibration/calibration/timings.ipynb): produce calibration timings,
+	- [experimental_multi_gpus.ipynb](https://github.com/vadmbertr/pastax-global-calibration/calibration/experimental_multi_gpus.ipynb): same as experimental_results.ipynb, but using 2 GPUs.
 
 ## Success metrics
 Calibrating the simulator globaly for 20 years of data should take less than 48 hours (by extrapolating the numbers observed on a smaller time period).
 
 - This requirement has been met.
 
-However, we were not able to extend the experiment to multiple GPUs (yet?!).
+However, we did not had time to extend entirely the experiment to multiple GPUs yet.
