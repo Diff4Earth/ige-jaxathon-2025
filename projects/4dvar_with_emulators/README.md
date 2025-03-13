@@ -45,5 +45,3 @@ We will provide a notebook including
 ![Found X0 using data assimilation 4DVar](https://github.com/Diff4Earth/ige-jaxathon-2025/blob/main/projects/4dvar_with_emulators/found_x0.png)
 <figcaption>Found X0 using data assimilation 4DVar</figcaption>
 
-![Found X0 using data assimilation 4DVar](https://github.com/Diff4Earth/ige-jaxathon-2025/blob/main/projects/4dvar_with_emulators/found_x0.png)
-<figcaption>Found X0 using data assimilation 4DVar</figcaption>
