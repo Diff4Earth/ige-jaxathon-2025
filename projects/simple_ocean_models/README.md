@@ -11,3 +11,9 @@ The repository is composed of two models:
   - 1D Unsteady Ekman model
 
 One example of twin experiments using the optax library is also provided. 
+
+The qgml environment can be installed using conda.
+
+```bash
+PIP_NO_DEPS=1 conda env create -f qgml_environment.yml
+```
