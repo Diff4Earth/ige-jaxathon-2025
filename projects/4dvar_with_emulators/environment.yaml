@@ -1,0 +1,11 @@
+name: jax-flax-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - jax
+    - jaxlib
+    - numpy
