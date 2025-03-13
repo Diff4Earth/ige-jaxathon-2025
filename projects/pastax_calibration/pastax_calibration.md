@@ -27,6 +27,7 @@ The work is divided in two main stages:
 	- update the model.
 
 And an additional one:
+
 3. Replicate the above steps using several (i.e. 2) GPUs
 
 ## Material
