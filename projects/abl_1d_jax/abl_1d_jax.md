@@ -8,7 +8,7 @@
 The idea is to evaluate the work that has to be done in order to translate a one-dimensional ABL model from Fortran (NEMO, SI3) into JAX. 
 Two different approaches:
 - Extracting code from NEMO/SI3/ABL (Lemarié's code, public repo)
-- Extracting code from NANUK/ABL (WIP, unpublished, unofficial code) - NANUK is already an extraction from NEMO (80% of the job done yay!)
+- Extracting code from NANUQ/ABL (WIP, unpublished, unofficial code) - NANUQ is already an extraction from NEMO (80% of the job done yay!)
 
 The idea afterward would be to couple this ABL with a sea ice emulator, which means we also need to list all the necessary variables.
 
