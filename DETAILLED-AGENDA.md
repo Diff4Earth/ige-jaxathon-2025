@@ -44,7 +44,7 @@
 | 11:00  | Work session                 | Work on participants projects                                                                     |
 | 13:00  | Lunch                        | (*On-site at IGE / MCP building*)                                                                 |
 | 14:00  | Work session                 | Work on participants projects                                                                     |
-| 15:30  | Group discussion             | How to enforce differentiability of a physics based models, led by Etienne Meunier                |
+| 15:30  | Group discussion             | How to enforce differentiability of a physics based models, led by *Etienne Meunier*               |
 | 16:00  | Work session                 | Work on participants projects                                                                     |
 | 18:00  | Stand-up Exchange            | Wrap-up and plans for DAY4                                                                        |
 | 18:15  | Adjourn                      |                                                                                                   |
