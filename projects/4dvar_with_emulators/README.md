@@ -37,7 +37,7 @@ We will provide a notebook including
 *Please provide a criteria on the basis of which you will assess whether you have achieved your objectives for the hackathon*
 
 <figure>
-  <img src="[image-url](https://github.com/Diff4Earth/ige-jaxathon-2025/blob/main/projects/4dvar_with_emulators/observations.png)" alt="An example of observational data">
+  <img src="[https://github.com/Diff4Earth/ige-jaxathon-2025/blob/main/projects/4dvar_with_emulators/observations.png](https://github.com/Diff4Earth/ige-jaxathon-2025/blob/main/projects/4dvar_with_emulators/observations.png)" alt="An example of observational data">
   <figcaption>An example of observational data</figcaption>
 </figure>
 
