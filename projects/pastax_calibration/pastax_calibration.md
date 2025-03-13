@@ -42,3 +42,7 @@ It is made of five notebooks separated into two directories:
 
 ## Success metrics
 Calibrating the simulator globaly for 20 years of data should take less than 48 hours (by extrapolating the numbers observed on a smaller time period).
+
+- This requirement has been met.
+
+However, we were not able to extend the experiment to multiple GPUs (yet?!).
