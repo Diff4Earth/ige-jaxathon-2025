@@ -4,9 +4,9 @@ This project is inscribed in the JAXhathon 2025 event: https://github.com/Diff4E
 
 
 ## People involved : 
-1. Minh Nguyen 
-2. Anthony Frion 
-3. Ali Bekar
+1. Minh Nguyen (thanh.nguyen@hereon.de)
+2. Anthony Frion (anthony.frion@hereon.de)
+3. Ali Bekar (ali.bekar@hereon.de)
 
 ## Project description 
 
