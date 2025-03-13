@@ -27,7 +27,7 @@ We will provide a notebook including
 3. Verify forecast state and Jacobian (Ali)
    - Implementing the ForwardEuler time integration scheme
    - Constraining the closed boundary conditions for ssh, u, v (Shallow Water problem with closed boundary)
-4. Write 4DVar coding using Jax (Minh + Ali + Anthony)
+4. Coding 4DVar using Jax (Minh + Ali + Anthony)
    - Implementing the mask
    - Implementing the function to retrieve observation and applying the mask to obs
    - Implementing the loss function
