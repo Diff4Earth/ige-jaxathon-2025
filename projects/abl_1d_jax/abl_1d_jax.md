@@ -28,6 +28,6 @@ The idea afterward would be to couple this ABL with a sea ice emulator, which me
 - Roadmap to translate the ABL code in JAX. (List of routines)
 - If possible, JAX functions for one or two Fortran routine
 
-## Outputs :
+## 🎁 Outputs :
 
 All the work is done in the [dedicated repo](https://github.com/Diff4Earth/ABL_1D_JAX/blob/main/README.md)
