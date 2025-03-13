@@ -25,6 +25,7 @@ The work is divided in two main stages:
 	- simulate an ensemble of possible solutions for each trajectory,
 	- evaluate the loss and the gradient,
 	- update the model.
+
 And an additional one:
 3. Replicate the above steps using several (i.e. 2) GPUs
 
